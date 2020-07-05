@@ -5,7 +5,8 @@
 - The new Bootstrap Icons also is installed and we'll dig into a few of the new Sass options
 - - recommended that Live Sass Compiler is installed if using VS Code
 https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass
-- - Open VS Code settings (the gear icon), search Line Sass Compiler and edit the .json, added to Live Sass Compiler settings:
+- - Open VS Code settings (the gear icon), search Live Sass Compiler and edit the .json, added to Live Sass Compiler settings:
+- 
 "liveSassCompile.settings.formats": [
         {
             "format": "compressed",
