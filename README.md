@@ -13,5 +13,4 @@ https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass
             "extensionName": ".css",
             "savePath": "/css"
         }
-
-    ],
+]
