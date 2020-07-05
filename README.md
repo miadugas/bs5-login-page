@@ -1,7 +1,10 @@
 # bs5-login-page
 
 ## Taking a first look at Bootstrap 5
-- simple login page with Bootstrap 5.0.0 Alpha to highlight some of the changes
+
+## Simple Login page 
+
+- simple login page with Bootstrap 5.0.0 Alpha to highlight some of the changes in Bootstrap 5
 - The new Bootstrap Icons also is installed and we'll dig into a few of the new Sass options
 - - recommended that Live Sass Compiler is installed if using VS Code
 https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass
@@ -16,6 +19,6 @@ https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass
 ],
 "liveSassCompile.settings.generateMap": false,
 
-- - 
+- - Javascript included from nodemodules & popper.js ( npm i popper.js) installed in case project is expanded
 
 
